@@ -1,0 +1,30 @@
+body {
+  background-color: lightblue;
+  padding: 0;
+  margin: 0;
+}
+
+.grocery-section {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+form {
+  background-color: aliceblue;
+  padding: 8em;
+  border-radius: 1em;
+}
+
+i {
+  cursor: pointer;
+}
+
+.success {
+  color: lightgreen;
+}
+
+.warning {
+  color: lightcoral;
+}
